@@ -33,8 +33,7 @@ Here are some of my GitHub projects:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=pager&theme=tokyonight" />
 </a>
 
-
-### Python packages
+### Cancer data
 <a href="https://github.com/GilbertLabUCSF/CanDI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GilbertLabUCSF&repo=CanDI&theme=tokyonight" />
 </a>
