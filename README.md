@@ -21,7 +21,7 @@ Here are some of my GitHub projects:
 </a>
 
 <a href="https://github.com/abearab/QuantSeq-FWD-with-UMIs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=WES&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=QuantSeq-FWD-with-UMIs&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/goodarzilab/WES">
