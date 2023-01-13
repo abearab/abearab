@@ -2,12 +2,13 @@
 
 You may see my personal website – [abolfazlarab.com](https://abolfazlarab.com/)
 
+<!-- ![Abe's GitHub stats](https://github-readme-stats.vercel.app/api?username=abearab&show_icons=true&theme=radical) -->
 
 <!-- <a href="https://github.com/abearab/UDNBioSimilarity">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=UDNBioSimilarity&theme=tokyonight" />
 </a>
  -->
-
+<!-- 
 ___
 Here are some of my GitHub projects:
 ### Functional genomics
@@ -36,4 +37,4 @@ Here are some of my GitHub projects:
 ### Cancer data
 <a href="https://github.com/GilbertLabUCSF/CanDI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GilbertLabUCSF&repo=CanDI&theme=tokyonight" />
-</a>
+</a> -->
