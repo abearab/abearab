@@ -2,18 +2,22 @@
 
 You may see my personal website – [abolfazlarab.com](https://abolfazlarab.com/)
 
-<!-- ![Abe's GitHub stats](https://github-readme-stats.vercel.app/api?username=abearab&show_icons=true&theme=radical) -->
+![Abe's GitHub stats](https://github-readme-stats.vercel.app/api?username=abearab&show_icons=true&theme=radical)
 
-<!-- <a href="https://github.com/abearab/UDNBioSimilarity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=UDNBioSimilarity&theme=tokyonight" />
-</a>
- -->
-<!-- 
 ___
 Here are some of my GitHub projects:
 ### Functional genomics
-<a href="https://github.com/abearab/CRISPRi-dual-sgRNA-screens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=CRISPRi-dual-sgRNA-screens&theme=tokyonight" />
+
+<a href="https://github.com/abearab/ScreenPro2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=ScreenPro2&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/abearab/GISEA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=GISEA&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/GilbertLabUCSF/CanDI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GilbertLabUCSF&repo=CanDI&theme=tokyonight" />
 </a>
 
 ### NGS Data analysis
@@ -29,12 +33,28 @@ Here are some of my GitHub projects:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goodarzilab&repo=WES&theme=tokyonight" />
 </a>
 
-### Gene set and pathway analysis
+<a href="https://github.com/abearab/imRIP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=imRIP&theme=tokyonight" />
+</a>
+
 <a href="https://github.com/abearab/pager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=pager&theme=tokyonight" />
 </a>
 
-### Cancer data
-<a href="https://github.com/GilbertLabUCSF/CanDI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GilbertLabUCSF&repo=CanDI&theme=tokyonight" />
-</a> -->
+<a href="https://github.com/abearab/HERVs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=HERVs&theme=tokyonight" />
+</a>
+
+___
+Here are some of the projects I contributed:
+
+### Therapeutics Data Commons
+> Artificial intelligence foundation for therapeutic science
+
+<a href="https://github.com/abearab/TDC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=TDC&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/abearab/PrimeKG">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=PrimeKG&theme=tokyonight" />
+</a>
