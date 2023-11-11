@@ -1,11 +1,24 @@
-### Hi there 👋
+Hi there 👋
 
-You may see my personal website – [abolfazlarab.com](https://abolfazlarab.com/)
+You may also see my personal website – [abolfazlarab.com](https://abolfazlarab.com/)
 
 ![Abe's GitHub stats](https://github-readme-stats.vercel.app/api?username=abearab&show_icons=true&theme=radical)
 
 ___
-Here are some of my GitHub projects:
+Here are my key projects where I led the effort.
+
+## 1) Multi-Omics data integration and analysis projects
+
+<a href="https://github.com/GilbertLabUCSF/Decitabine-treatment">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GilbertLabUCSF&repo=Decitabine-treatment&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/abearab/sc-haircut-net">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=sc-haircut-net&theme=tokyonight" />
+</a>
+
+## 2) Tool, resource, and tutorial development projects
+
 ### Functional genomics
 
 <a href="https://github.com/abearab/ScreenPro2">
@@ -46,7 +59,7 @@ Here are some of my GitHub projects:
 </a>
 
 ___
-Here are some of the projects I contributed:
+Here are some of the projects I contributed at [Harvard Medical School - Department of Biomedical Informatics](https://github.com/hms-dbmi) and [Zitnik Lab](https://github.com/mims-harvard):
 
 ### Therapeutics Data Commons
 > Artificial intelligence foundation for therapeutic science
