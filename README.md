@@ -25,9 +25,11 @@ Here are my key projects where I led the effort.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=ScreenPro2&theme=tokyonight" />
 </a>
 
+<!-- 
 <a href="https://github.com/abearab/GISEA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=GISEA&theme=tokyonight" />
 </a>
+-->
 
 <a href="https://github.com/GilbertLabUCSF/CanDI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GilbertLabUCSF&repo=CanDI&theme=tokyonight" />
