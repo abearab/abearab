@@ -21,10 +21,25 @@ Here are my key projects where I led the effort.
 
 ### Functional genomics
 
-<a href="https://github.com/abearab/ScreenPro2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=ScreenPro2&theme=tokyonight" />
+<a href="https://github.com/ArcInstitute/ScreenPro2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcInstitute&repo=ScreenPro2&theme=tokyonight" />
 </a>
 
+I've used, improved, and then developed a series of pipelines and packages for CRISPR screen analysis. Over time, we agreed to extend and maintain **ScreenPro2**! Here is the history:
+
+<a href="https://github.com/mhorlbeck/ScreenProcessing/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhorlbeck&repo=ScreenProcessing&theme=tokyonight" />
+</a>
+1) 
+<a href="https://github.com/abearab/CRISPRi-dual-sgRNA-screens/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=CRISPRi-dual-sgRNA-screens&theme=tokyonight" />
+</a>
+2)
+<a href="https://github.com/GilbertLabUCSF/ScreenPro2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GilbertLabUCSF&repo=ScreenPro2&theme=tokyonight" />
+</a>
+
+___
 <!-- 
 <a href="https://github.com/abearab/GISEA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=GISEA&theme=tokyonight" />
