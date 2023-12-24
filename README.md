@@ -2,7 +2,9 @@ Hi there 👋
 
 You may also see my personal website – [abolfazlarab.com](https://abolfazlarab.com/)
 
+<!-- 
 ![Abe's GitHub stats](https://github-readme-stats.vercel.app/api?username=abearab&show_icons=true&theme=radical)
+-->
 
 ___
 Here are my key projects where I led the effort.
