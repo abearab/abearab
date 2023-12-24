@@ -1,6 +1,6 @@
 Hi there 👋
 
-You may also see my personal website – [abolfazlarab.com](https://abolfazlarab.com/)
+You may also see my website – [abolfazlarab.com](https://abolfazlarab.com/)
 
 <!-- 
 ![Abe's GitHub stats](https://github-readme-stats.vercel.app/api?username=abearab&show_icons=true&theme=radical)
@@ -8,6 +8,12 @@ You may also see my personal website – [abolfazlarab.com](https://abolfazlarab
 
 ___
 Here are my key projects where I led the effort.
+
+## 0) Models for learning biological information
+<a href="https://github.com/abearab/Cancer-Cell-Encoder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=Cancer-Cell-Encoder&theme=tokyonight" />
+</a>
+
 
 ## 1) Multi-Omics data integration and analysis projects
 
