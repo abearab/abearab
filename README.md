@@ -33,6 +33,7 @@ Here are my key projects where I led the effort.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcInstitute&repo=ScreenPro2&theme=tokyonight" />
 </a>
 
+<!-- 
 I've used, improved, and then developed a series of pipelines and packages for CRISPR screen analysis. Over time, we agreed to extend and maintain **ScreenPro2**! Here is the history:
 
 <a href="https://github.com/mhorlbeck/ScreenProcessing/">
@@ -46,6 +47,7 @@ I've used, improved, and then developed a series of pipelines and packages for C
 <a href="https://github.com/GilbertLabUCSF/ScreenPro2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GilbertLabUCSF&repo=ScreenPro2&theme=tokyonight" />
 </a>
+-->
 
 ___
 <!-- 
