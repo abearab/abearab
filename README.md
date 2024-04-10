@@ -7,31 +7,26 @@ You may also see my website – [abolfazlarab.com](https://abolfazlarab.com/)
 -->
 
 ___
+Here are some of the projects I contributed at [Harvard Medical School - Department of Biomedical Informatics](https://github.com/hms-dbmi) and [Zitnik Lab](https://github.com/mims-harvard):
+
+https://github.com/abearab/TDC | **Artificial intelligence foundation for therapeutic science**
+https://github.com/abearab/PrimeKG
+
+___
 Here are my key projects where I led the effort.
+### 0) Models for learning biological information
+- https://github.com/abearab/Cancer-Cell-Encoder
 
-## 0) Models for learning biological information
-<a href="https://github.com/abearab/Cancer-Cell-Encoder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=Cancer-Cell-Encoder&theme=tokyonight" />
-</a>
+### 1) Multi-Omics data integration and analysis projects
+- https://github.com/GilbertLabUCSF/Decitabine-treatment
+- https://github.com/abearab/sc-haircut-net
 
+### 2) Tool, resource, and tutorial development projects
 
-## 1) Multi-Omics data integration and analysis projects
+#### Functional genomics
 
-<a href="https://github.com/GilbertLabUCSF/Decitabine-treatment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GilbertLabUCSF&repo=Decitabine-treatment&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/abearab/sc-haircut-net">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=sc-haircut-net&theme=tokyonight" />
-</a>
-
-## 2) Tool, resource, and tutorial development projects
-
-### Functional genomics
-
-<a href="https://github.com/ArcInstitute/ScreenPro2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcInstitute&repo=ScreenPro2&theme=tokyonight" />
-</a>
+- https://github.com/ArcInstitute/ScreenPro2
+- https://github.com/GilbertLabUCSF/CanDI
 
 <!-- 
 I've used, improved, and then developed a series of pipelines and packages for CRISPR screen analysis. Over time, we agreed to extend and maintain **ScreenPro2**! Here is the history:
@@ -48,53 +43,17 @@ I've used, improved, and then developed a series of pipelines and packages for C
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GilbertLabUCSF&repo=ScreenPro2&theme=tokyonight" />
 </a>
 -->
-
-___
 <!-- 
 <a href="https://github.com/abearab/GISEA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=GISEA&theme=tokyonight" />
 </a>
 -->
-
-<a href="https://github.com/GilbertLabUCSF/CanDI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GilbertLabUCSF&repo=CanDI&theme=tokyonight" />
-</a>
-
-### NGS Data analysis
-<a href="https://github.com/abearab/RNAseq-tutorials">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=RNAseq-tutorials&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/abearab/QuantSeq-FWD-with-UMIs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=QuantSeq-FWD-with-UMIs&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/goodarzilab/WES">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goodarzilab&repo=WES&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/abearab/imRIP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=imRIP&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/abearab/pager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=pager&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/abearab/HERVs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=HERVs&theme=tokyonight" />
-</a>
-
 ___
-Here are some of the projects I contributed at [Harvard Medical School - Department of Biomedical Informatics](https://github.com/hms-dbmi) and [Zitnik Lab](https://github.com/mims-harvard):
 
-### Therapeutics Data Commons
-> Artificial intelligence foundation for therapeutic science
-
-<a href="https://github.com/abearab/TDC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=TDC&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/abearab/PrimeKG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=PrimeKG&theme=tokyonight" />
-</a>
+#### NGS Data analysis
+- https://github.com/abearab/RNAseq-tutorials
+- https://github.com/abearab/QuantSeq-FWD-with-UMIs
+- https://github.com/abearab/imRIP
+- https://github.com/goodarzilab/WES
+- https://github.com/abearab/pager
+- https://github.com/abearab/HERVs
