@@ -9,8 +9,8 @@ You may also see my website – [abolfazlarab.com](https://abolfazlarab.com/)
 ___
 Here are some of the projects I contributed at [Harvard Medical School - Department of Biomedical Informatics](https://github.com/hms-dbmi) and [Zitnik Lab](https://github.com/mims-harvard):
 
-https://github.com/abearab/TDC | **Artificial intelligence foundation for therapeutic science**
-https://github.com/abearab/PrimeKG
+- https://github.com/abearab/TDC | **Artificial intelligence foundation for therapeutic science**
+- https://github.com/abearab/PrimeKG
 
 ___
 Here are my key projects where I led the effort.
