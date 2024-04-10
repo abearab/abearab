@@ -14,14 +14,13 @@ https://github.com/abearab/PrimeKG
 
 ___
 Here are my key projects where I led the effort.
-### 0) Models for learning biological information
+
+#### Deep-Learning
 - https://github.com/abearab/Cancer-Cell-Encoder
 
-### 1) Multi-Omics data integration and analysis projects
+#### Multi-Omics data integration and analysis
 - https://github.com/GilbertLabUCSF/Decitabine-treatment
 - https://github.com/abearab/sc-haircut-net
-
-### 2) Tool, resource, and tutorial development projects
 
 #### Functional genomics
 
