@@ -25,7 +25,7 @@ Here are my key projects where I led the effort.
 #### Functional genomics
 
 - https://github.com/ArcInstitute/ScreenPro2
-- https://github.com/GilbertLabUCSF/CanDI
+- https://github.com/GilbertLabUCSF/CanDI | **Cancer Data Integrator**
 
 ___
 
