@@ -21,14 +21,6 @@ Here are my key projects where I led the effort.
 #### Deep-Learning
 - https://github.com/abearab/Cancer-Cell-Encoder
 
-___
-Here are some of the projects I contributed at [Harvard Medical School - Department of Biomedical Informatics](https://github.com/hms-dbmi) and [Zitnik Lab](https://github.com/mims-harvard):
-
-- https://github.com/mims-harvard/TDC | **Artificial intelligence foundation for therapeutic science**
-- https://github.com/mims-harvard/PrimeKG | **Precision Medicine Knowledge Graph (PrimeKG)**
-
-___
-
 #### NGS Data analysis
 - https://github.com/abearab/RNAseq-tutorials
 - https://github.com/abearab/QuantSeq-FWD-with-UMIs
@@ -36,6 +28,14 @@ ___
 - https://github.com/abearab/pager
 - https://github.com/abearab/HERVs
 - https://github.com/goodarzilab/WES
+
+___
+Here are some of the projects I contributed at [Harvard Medical School - Department of Biomedical Informatics](https://github.com/hms-dbmi) and [Zitnik Lab](https://github.com/mims-harvard):
+
+- https://github.com/mims-harvard/TDC | **Artificial intelligence foundation for therapeutic science**
+- https://github.com/mims-harvard/PrimeKG | **Precision Medicine Knowledge Graph (PrimeKG)**
+
+___
 
 <!-- 
 I've used, improved, and then developed a series of pipelines and packages for CRISPR screen analysis. Over time, we agreed to extend and maintain **ScreenPro2**! Here is the history:
