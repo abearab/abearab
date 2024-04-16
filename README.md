@@ -7,25 +7,25 @@ You may also see my website – [abolfazlarab.com](https://abolfazlarab.com/)
 -->
 
 ___
-Here are some of the projects I contributed at [Harvard Medical School - Department of Biomedical Informatics](https://github.com/hms-dbmi) and [Zitnik Lab](https://github.com/mims-harvard):
-
-- https://github.com/mims-harvard/TDC | **Artificial intelligence foundation for therapeutic science**
-- https://github.com/mims-harvard/PrimeKG | **Precision Medicine Knowledge Graph (PrimeKG)**
-
-___
 Here are my key projects where I led the effort.
 
-#### Deep-Learning
-- https://github.com/abearab/Cancer-Cell-Encoder
+#### Functional genomics
+
+- https://github.com/ArcInstitute/ScreenPro2 | **Flexible analysis of high-content CRISPR screening**
+- https://github.com/GilbertLabUCSF/CanDI | **Cancer Data Integrator**
 
 #### Multi-Omics data integration and analysis
 - https://github.com/GilbertLabUCSF/Decitabine-treatment
 - https://github.com/abearab/sc-haircut-net
 
-#### Functional genomics
+#### Deep-Learning
+- https://github.com/abearab/Cancer-Cell-Encoder
 
-- https://github.com/ArcInstitute/ScreenPro2
-- https://github.com/GilbertLabUCSF/CanDI | **Cancer Data Integrator**
+___
+Here are some of the projects I contributed at [Harvard Medical School - Department of Biomedical Informatics](https://github.com/hms-dbmi) and [Zitnik Lab](https://github.com/mims-harvard):
+
+- https://github.com/mims-harvard/TDC | **Artificial intelligence foundation for therapeutic science**
+- https://github.com/mims-harvard/PrimeKG | **Precision Medicine Knowledge Graph (PrimeKG)**
 
 ___
 
