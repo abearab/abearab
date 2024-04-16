@@ -9,8 +9,10 @@ You may also see my website – [abolfazlarab.com](https://abolfazlarab.com/)
 ___
 Here are my key projects where I led the effort.
 
-#### Functional genomics
+#### Deep-Learning
+- https://github.com/abearab/Cancer-Cell-Encoder
 
+#### Functional genomics
 - https://github.com/ArcInstitute/ScreenPro2 | **Flexible analysis of high-content CRISPR screening**
 - https://github.com/GilbertLabUCSF/CanDI | **Cancer Data Integrator**
 
@@ -18,16 +20,12 @@ Here are my key projects where I led the effort.
 - https://github.com/GilbertLabUCSF/Decitabine-treatment
 - https://github.com/abearab/sc-haircut-net
 
-#### Deep-Learning
-- https://github.com/abearab/Cancer-Cell-Encoder
+#### Systems Biology
+- https://github.com/abearab/pager | **PAGE algorithm run and downstream analysis**
 
 #### NGS Data analysis
-- https://github.com/abearab/RNAseq-tutorials
-- https://github.com/abearab/QuantSeq-FWD-with-UMIs
-- https://github.com/abearab/imRIP
-- https://github.com/abearab/pager
-- https://github.com/abearab/HERVs
-- https://github.com/goodarzilab/WES
+- [RNAseq-tutorials](https://github.com/abearab/RNAseq-tutorials) 
+- [goodarzilab/WES](https://github.com/goodarzilab/WES), [QuantSeq-FWD-with-UMIs](https://github.com/abearab/QuantSeq-FWD-with-UMIs), [imRIP](https://github.com/abearab/imRIP), [HERVs](https://github.com/abearab/HERVs)
 
 ___
 Here are some of the projects I contributed at [Harvard Medical School - Department of Biomedical Informatics](https://github.com/hms-dbmi) and [Zitnik Lab](https://github.com/mims-harvard):
