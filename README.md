@@ -10,18 +10,18 @@ ___
 Here are my key projects where I led the effort.
 
 #### Deep-Learning
-- https://github.com/abearab/Cancer-Cell-Encoder
+- [Cancer-Cell-Encoder](https://github.com/abearab/Cancer-Cell-Encoder)
 
 #### Functional genomics
-- https://github.com/ArcInstitute/ScreenPro2 | **Flexible analysis of high-content CRISPR screening**
-- https://github.com/GilbertLabUCSF/CanDI | **Cancer Data Integrator**
+- [ArcInstitute/ScreenPro2](https://github.com/ArcInstitute/ScreenPro2) | **Flexible analysis of high-content CRISPR screening**
+- [GilbertLabUCSF/CanDI](https://github.com/GilbertLabUCSF/CanDI) | **Cancer Data Integrator**
 
 #### Multi-Omics data integration and analysis
-- https://github.com/GilbertLabUCSF/Decitabine-treatment
-- https://github.com/abearab/sc-haircut-net
+- [GilbertLabUCSF/Decitabine-treatment](https://github.com/GilbertLabUCSF/Decitabine-treatment)
+- [sc-haircut-net](https://github.com/abearab/sc-haircut-net)
 
 #### Systems Biology
-- https://github.com/abearab/pager | **PAGE algorithm run and downstream analysis**
+- [pager](https://github.com/abearab/pager) | **PAGE algorithm run and downstream analysis**
 
 #### NGS Data analysis
 - [RNAseq-tutorials](https://github.com/abearab/RNAseq-tutorials) 
