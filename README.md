@@ -7,8 +7,8 @@ You may also see my website – [abolfazlarab.com](https://abolfazlarab.com/)
 -->
 
 ___
-Here are some of the projects I contributed at [Harvard Medical School - Department of Biomedical Informatics](https://github.com/hms-dbmi) and [Zitnik Lab](https://github.com/mims-harvard):
-
+Projects at [Harvard Medical School - DBMI](https://github.com/hms-dbmi) and [Zitnik Lab](https://github.com/mims-harvard):
+- [UDNBioSimilarity](https://github.com/abearab/UDNBioSimilarity) | **Investigating Biological Similarities among Rare Diseases** (not public!)
 - [mims-harvard/TDC](https://github.com/mims-harvard/TDC) | **Artificial intelligence foundation for therapeutic science**
 - [mims-harvard/PrimeKG](https://github.com/mims-harvard/PrimeKG) | **Precision Medicine Knowledge Graph (PrimeKG)**
 
