@@ -7,6 +7,12 @@ You may also see my website – [abolfazlarab.com](https://abolfazlarab.com/)
 -->
 
 ___
+Here are some of the projects I contributed at [Harvard Medical School - Department of Biomedical Informatics](https://github.com/hms-dbmi) and [Zitnik Lab](https://github.com/mims-harvard):
+
+- [mims-harvard/TDC](https://github.com/mims-harvard/TDC) | **Artificial intelligence foundation for therapeutic science**
+- [mims-harvard/PrimeKG](https://github.com/mims-harvard/PrimeKG) | **Precision Medicine Knowledge Graph (PrimeKG)**
+
+___
 Here are my key projects where I led the effort.
 
 #### Deep-Learning
@@ -28,12 +34,6 @@ Here are my key projects where I led the effort.
 - [goodarzilab/WES](https://github.com/goodarzilab/WES), [QuantSeq-FWD-with-UMIs](https://github.com/abearab/QuantSeq-FWD-with-UMIs), [imRIP](https://github.com/abearab/imRIP), [HERVs](https://github.com/abearab/HERVs)
 
 ___
-Here are some of the projects I contributed at [Harvard Medical School - Department of Biomedical Informatics](https://github.com/hms-dbmi) and [Zitnik Lab](https://github.com/mims-harvard):
-
-- [mims-harvard/TDC](https://github.com/mims-harvard/TDC) | **Artificial intelligence foundation for therapeutic science**
-- [mims-harvard/PrimeKG](https://github.com/mims-harvard/PrimeKG) | **Precision Medicine Knowledge Graph (PrimeKG)**
-
-___
 
 <!-- 
 I've used, improved, and then developed a series of pipelines and packages for CRISPR screen analysis. Over time, we agreed to extend and maintain **ScreenPro2**! Here is the history:
@@ -46,12 +46,7 @@ I've used, improved, and then developed a series of pipelines and packages for C
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=CRISPRi-dual-sgRNA-screens&theme=tokyonight" />
 </a>
 2)
-<a href="https://github.com/GilbertLabUCSF/ScreenPro2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GilbertLabUCSF&repo=ScreenPro2&theme=tokyonight" />
-</a>
--->
-<!-- 
-<a href="https://github.com/abearab/GISEA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=GISEA&theme=tokyonight" />
+<a href="https://github.com/ArcInstitute/ScreenPro2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcInstitute&repo=ScreenPro2&theme=tokyonight" />
 </a>
 -->
