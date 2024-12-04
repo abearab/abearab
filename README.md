@@ -7,12 +7,6 @@ You may also see my website – [abolfazlarab.com](https://abolfazlarab.com/)
 -->
 
 ___
-Projects at [Harvard Medical School - DBMI](https://github.com/hms-dbmi) and [Zitnik Lab](https://github.com/mims-harvard):
-- [UDNBioSimilarity](https://github.com/abearab/UDNBioSimilarity) | **Investigating Biological Similarities among Rare Diseases** (not public!)
-- [mims-harvard/TDC](https://github.com/mims-harvard/TDC) | **Artificial intelligence foundation for therapeutic science**
-- [mims-harvard/PrimeKG](https://github.com/mims-harvard/PrimeKG) | **Precision Medicine Knowledge Graph (PrimeKG)**
-
-___
 Here are my key projects where I led the effort.
 
 #### Deep-Learning
@@ -36,6 +30,10 @@ Here are my key projects where I led the effort.
 - [goodarzilab/WES](https://github.com/goodarzilab/WES), [QuantSeq-FWD-with-UMIs](https://github.com/abearab/QuantSeq-FWD-with-UMIs), [imRIP](https://github.com/abearab/imRIP), [HERVs](https://github.com/abearab/HERVs)
 
 ___
+Projects at [Harvard Medical School - DBMI](https://github.com/hms-dbmi) and [Zitnik Lab](https://github.com/mims-harvard):
+- [UDNBioSimilarity](https://github.com/abearab/UDNBioSimilarity) | **Investigating Biological Similarities among Rare Diseases** (not public!)
+- [mims-harvard/TDC](https://github.com/mims-harvard/TDC) | **Artificial intelligence foundation for therapeutic science**
+- [mims-harvard/PrimeKG](https://github.com/mims-harvard/PrimeKG) | **Precision Medicine Knowledge Graph (PrimeKG)**
 
 <!-- 
 I've used, improved, and then developed a series of pipelines and packages for CRISPR screen analysis. Over time, we agreed to extend and maintain **ScreenPro2**! Here is the history:
