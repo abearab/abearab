@@ -16,9 +16,11 @@ ___
 Here are my key projects where I led the effort.
 
 #### Deep-Learning
-- [Cancer-Cell-Encoder](https://github.com/abearab/Cancer-Cell-Encoder)
+- [ezformer](https://github.com/abearab/ezformer) | **Run enformer like models, get prediction tracks, and perform benchmarking** (not public!)
+- [Cancer-Cell-Encoder](https://github.com/abearab/Cancer-Cell-Encoder) | (ARCHIVED)
 
-#### Functional genomics
+#### Functional Genomics
+- [FunGI-cap](https://github.com/FunGI-cap) ecosystem – **Functional Genomics Screening Datasets, Tools, and Resources**
 - [ArcInstitute/ScreenPro2](https://github.com/ArcInstitute/ScreenPro2) | **Flexible analysis of high-content CRISPR screening**
 - [GilbertLabUCSF/CanDI](https://github.com/GilbertLabUCSF/CanDI) | **Cancer Data Integrator**
 
