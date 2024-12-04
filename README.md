@@ -14,7 +14,7 @@ Here are my key projects where I led the effort.
 - [Cancer-Cell-Encoder](https://github.com/abearab/Cancer-Cell-Encoder) | (ARCHIVED)
 
 #### Functional Genomics
-- [FunGI-cap](https://github.com/FunGI-cap) ecosystem – **Functional Genomics Screening Datasets, Tools, and Resources**
+- [FunGI-cap](https://github.com/FunGI-cap) – **Functional Genomics Screening Datasets, Tools, and Resources**
 - [ArcInstitute/ScreenPro2](https://github.com/ArcInstitute/ScreenPro2) | **Flexible analysis of high-content CRISPR screening**
 - [GilbertLabUCSF/CanDI](https://github.com/GilbertLabUCSF/CanDI) | **Cancer Data Integrator**
 
