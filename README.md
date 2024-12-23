@@ -10,7 +10,7 @@ ___
 Here are my key projects where I led the effort.
 
 #### Deep-Learning
-- [ezformer](https://github.com/abearab/ezformer) | **Run enformer like models, get prediction tracks, and perform benchmarking** (not public!)
+- [ezformer](https://github.com/abearab/ezformer) | **Run enformer like models, get prediction tracks, and perform benchmarking**
 - [Cancer-Cell-Encoder](https://github.com/abearab/Cancer-Cell-Encoder) | (ARCHIVED)
 
 #### Functional Genomics
