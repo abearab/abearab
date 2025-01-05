@@ -14,19 +14,18 @@ Here are my key projects where I led the effort.
 - [Cancer-Cell-Encoder](https://github.com/abearab/Cancer-Cell-Encoder) | (ARCHIVED)
 
 #### Functional Genomics
-- [FunGI-cap](https://github.com/FunGI-cap) – **Functional Genomics Screening Datasets, Tools, and Resources**
+- [FunGI-cap](https://github.com/FunGI-cap) | **Functional Genomics Screening Datasets, Tools, and Resources**
 - [ArcInstitute/ScreenPro2](https://github.com/ArcInstitute/ScreenPro2) | **Flexible analysis of high-content CRISPR screening**
 - [GilbertLabUCSF/CanDI](https://github.com/GilbertLabUCSF/CanDI) | **Cancer Data Integrator**
 
 #### Systems Biology
 - [GilbertLabUCSF/Decitabine-treatment](https://github.com/GilbertLabUCSF/Decitabine-treatment)
-- [sc-haircut-net](https://github.com/abearab/sc-haircut-net)
 Bulk and single-cell Multi-Omics tools
-- [RNAseq-tutorials](https://github.com/abearab/RNAseq-tutorials) 
-- [scez](https://github.com/abearab/scez) – **Single Cell Analysis, Easy Mode!**
-- [MultiOmics](https://github.com/abearab/MultiOmics) – **A multi-omics analytic framework to study RNA dynamics**
+- [scez](https://github.com/abearab/scez) | **Single Cell Analysis, Easy Mode!**
+- [MultiOmics](https://github.com/abearab/MultiOmics) | **A multi-omics analytic framework to study RNA dynamics**
 - [pager](https://github.com/abearab/pager) | **PAGE algorithm run and downstream analysis**
-- [goodarzilab/WES](https://github.com/goodarzilab/WES), [QuantSeq-FWD-with-UMIs](https://github.com/abearab/QuantSeq-FWD-with-UMIs), [imRIP](https://github.com/abearab/imRIP), [HERVs](https://github.com/abearab/HERVs)
+- [sc-haircut-net](https://github.com/abearab/sc-haircut-net) | M.Sc. thesis project!
+- [RNAseq-tutorials](https://github.com/abearab/RNAseq-tutorials), [goodarzilab/WES](https://github.com/goodarzilab/WES), [QuantSeq-FWD-with-UMIs](https://github.com/abearab/QuantSeq-FWD-with-UMIs), [imRIP](https://github.com/abearab/imRIP), [HERVs](https://github.com/abearab/HERVs)
 
 ___
 Projects at [Harvard Medical School - DBMI](https://github.com/hms-dbmi) and [Zitnik Lab](https://github.com/mims-harvard):
