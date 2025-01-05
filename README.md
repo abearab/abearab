@@ -18,7 +18,9 @@ Here are my key projects where I led the effort.
 - [ArcInstitute/ScreenPro2](https://github.com/ArcInstitute/ScreenPro2) | **Flexible analysis of high-content CRISPR screening**
 - [GilbertLabUCSF/CanDI](https://github.com/GilbertLabUCSF/CanDI) | **Cancer Data Integrator**
 
-#### Multi-Omics data integration and analysis
+#### Bulk and single-cell Multi-Omics tools and projects
+- [scez](https://github.com/abearab/scez) – **Single Cell Analysis, Easy Mode!**
+- [MultiOmics](https://github.com/abearab/MultiOmics) – **A multi-omics analytic framework to study RNA dynamics**
 - [GilbertLabUCSF/Decitabine-treatment](https://github.com/GilbertLabUCSF/Decitabine-treatment)
 - [sc-haircut-net](https://github.com/abearab/sc-haircut-net)
 
