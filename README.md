@@ -18,17 +18,14 @@ Here are my key projects where I led the effort.
 - [ArcInstitute/ScreenPro2](https://github.com/ArcInstitute/ScreenPro2) | **Flexible analysis of high-content CRISPR screening**
 - [GilbertLabUCSF/CanDI](https://github.com/GilbertLabUCSF/CanDI) | **Cancer Data Integrator**
 
-#### Bulk and single-cell Multi-Omics tools and projects
-- [scez](https://github.com/abearab/scez) – **Single Cell Analysis, Easy Mode!**
-- [MultiOmics](https://github.com/abearab/MultiOmics) – **A multi-omics analytic framework to study RNA dynamics**
+#### Systems Biology
 - [GilbertLabUCSF/Decitabine-treatment](https://github.com/GilbertLabUCSF/Decitabine-treatment)
 - [sc-haircut-net](https://github.com/abearab/sc-haircut-net)
-
-#### Systems Biology
-- [pager](https://github.com/abearab/pager) | **PAGE algorithm run and downstream analysis**
-
-#### NGS Data analysis
+Bulk and single-cell Multi-Omics tools
 - [RNAseq-tutorials](https://github.com/abearab/RNAseq-tutorials) 
+- [scez](https://github.com/abearab/scez) – **Single Cell Analysis, Easy Mode!**
+- [MultiOmics](https://github.com/abearab/MultiOmics) – **A multi-omics analytic framework to study RNA dynamics**
+- [pager](https://github.com/abearab/pager) | **PAGE algorithm run and downstream analysis**
 - [goodarzilab/WES](https://github.com/goodarzilab/WES), [QuantSeq-FWD-with-UMIs](https://github.com/abearab/QuantSeq-FWD-with-UMIs), [imRIP](https://github.com/abearab/imRIP), [HERVs](https://github.com/abearab/HERVs)
 
 ___
@@ -36,19 +33,3 @@ Projects at [Harvard Medical School - DBMI](https://github.com/hms-dbmi) and [Zi
 - [UDNBioSimilarity](https://github.com/abearab/UDNBioSimilarity) | **Investigating Biological Similarities among Rare Diseases** (not public!)
 - [mims-harvard/TDC](https://github.com/mims-harvard/TDC) | **Artificial intelligence foundation for therapeutic science**
 - [mims-harvard/PrimeKG](https://github.com/mims-harvard/PrimeKG) | **Precision Medicine Knowledge Graph (PrimeKG)**
-
-<!-- 
-I've used, improved, and then developed a series of pipelines and packages for CRISPR screen analysis. Over time, we agreed to extend and maintain **ScreenPro2**! Here is the history:
-
-<a href="https://github.com/mhorlbeck/ScreenProcessing/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhorlbeck&repo=ScreenProcessing&theme=tokyonight" />
-</a>
-1) 
-<a href="https://github.com/abearab/CRISPRi-dual-sgRNA-screens/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abearab&repo=CRISPRi-dual-sgRNA-screens&theme=tokyonight" />
-</a>
-2)
-<a href="https://github.com/ArcInstitute/ScreenPro2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcInstitute&repo=ScreenPro2&theme=tokyonight" />
-</a>
--->
