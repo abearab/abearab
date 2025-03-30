@@ -23,7 +23,7 @@ Functional-Genomics projects:
 - [ArcInstitute/ScreenPro2](https://github.com/ArcInstitute/ScreenPro2) | **Flexible analysis of high-content CRISPR screening**
 
 Bulk and single-cell Multi-Omics tools
-- [RNAMultiOmics](https://github.com/abearab/RNAMultiOmics]) | A multi-omics analytic framework to study RNA dynamics ... 🚧
+- [RNAMultiOmics](https://github.com/abearab/RNAMultiOmics) | A multi-omics analytic framework to study RNA dynamics ... 🚧
 - [scez](https://github.com/abearab/scez) | Single Cell Analysis, Easy Mode! ... 🚧
 - [MultiOmics](https://github.com/abearab/MultiOmics) | **A multi-omics analytic framework to study RNA dynamics**
 - [pager](https://github.com/abearab/pager) | **PAGE algorithm run and downstream analysis**
