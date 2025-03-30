@@ -4,24 +4,27 @@ You may also see my website – [abolfazlarab.com](https://abolfazlarab.com/)
 
 <!-- 
 ![Abe's GitHub stats](https://github-readme-stats.vercel.app/api?username=abearab&show_icons=true&theme=radical)
+
+- [Cancer-Cell-Encoder](https://github.com/abearab/Cancer-Cell-Encoder) | (ARCHIVED)
 -->
 
 ___
-Here are my key projects where I led the effort.
 
-#### Deep-Learning
-- [ezformer](https://github.com/abearab/ezformer) | **Run enformer like models, get prediction tracks, and perform benchmarking**
-- [Cancer-Cell-Encoder](https://github.com/abearab/Cancer-Cell-Encoder) | (ARCHIVED)
-
-#### Functional Genomics
-- [FunGI-cap](https://github.com/FunGI-cap) | **Functional Genomics Screening Datasets, Tools, and Resources**
-- [ArcInstitute/ScreenPro2](https://github.com/ArcInstitute/ScreenPro2) | **Flexible analysis of high-content CRISPR screening**
+Manuscripts:
+- [GilbertLabUCSF/DDRi-screens](https://github.com/GilbertLabUCSF/DDRi-screens) | Functional genomics screens of DNA Damage Response inhibitors ... 🚧
+- [GilbertLabUCSF/Decitabine-treatment](https://github.com/GilbertLabUCSF/Decitabine-treatment) | **Multi-Omics study of DNA hypomethylation**
 - [GilbertLabUCSF/CanDI](https://github.com/GilbertLabUCSF/CanDI) | **Cancer Data Integrator**
 
-#### Systems Biology
-- [GilbertLabUCSF/Decitabine-treatment](https://github.com/GilbertLabUCSF/Decitabine-treatment)
+Deep-Learning projects:
+- [ezformer](https://github.com/abearab/ezformer) | Run enformer like models, get prediction tracks, and perform benchmarking ... 🚧
+
+Functional-Genomics projects:
+- [FunGI-cap](https://github.com/FunGI-cap) | Functional Genomics Screening Datasets, Tools, and Resources ... 🚧
+- [ArcInstitute/ScreenPro2](https://github.com/ArcInstitute/ScreenPro2) | **Flexible analysis of high-content CRISPR screening**
+
 Bulk and single-cell Multi-Omics tools
-- [scez](https://github.com/abearab/scez) | **Single Cell Analysis, Easy Mode!**
+- [RNAMultiOmics](https://github.com/abearab/RNAMultiOmics]) | A multi-omics analytic framework to study RNA dynamics ... 🚧
+- [scez](https://github.com/abearab/scez) | Single Cell Analysis, Easy Mode! ... 🚧
 - [MultiOmics](https://github.com/abearab/MultiOmics) | **A multi-omics analytic framework to study RNA dynamics**
 - [pager](https://github.com/abearab/pager) | **PAGE algorithm run and downstream analysis**
 - [sc-haircut-net](https://github.com/abearab/sc-haircut-net) | M.Sc. thesis project!
