@@ -4,8 +4,6 @@ You may also see my website – [abolfazlarab.com](https://abolfazlarab.com/)
 
 <!-- 
 ![Abe's GitHub stats](https://github-readme-stats.vercel.app/api?username=abearab&show_icons=true&theme=radical)
-
-- [Cancer-Cell-Encoder](https://github.com/abearab/Cancer-Cell-Encoder) | (ARCHIVED)
 -->
 
 ___
@@ -15,11 +13,11 @@ Manuscripts:
 - [GilbertLabUCSF/Decitabine-treatment](https://github.com/GilbertLabUCSF/Decitabine-treatment) | **Multi-Omics study of DNA hypomethylation**
 - [GilbertLabUCSF/CanDI](https://github.com/GilbertLabUCSF/CanDI) | **Cancer Data Integrator**
 
-Deep-Learning projects:
+Functional-Genomics and Chemical-Genetics projects:
 - [ezformer](https://github.com/abearab/ezformer) | Run enformer like models, get prediction tracks, and perform benchmarking ... 🚧
-
-Functional-Genomics projects:
+- [pyCCG](https://github.com/abearab/pyCCG) | python toolbox for Computational Chemical Genomics (CCG) research projects ... 🚧
 - [FunGI-cap](https://github.com/FunGI-cap) | Functional Genomics Screening Datasets, Tools, and Resources ... 🚧
+- [Cancer-Cell-Encoder](https://github.com/abearab/Cancer-Cell-Encoder) | (ARCHIVED)
 - [ArcInstitute/ScreenPro2](https://github.com/ArcInstitute/ScreenPro2) | **Flexible analysis of high-content CRISPR screening**
 
 Bulk and single-cell Multi-Omics tools
