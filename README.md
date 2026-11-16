@@ -9,7 +9,7 @@ You may also see my website – [abolfazlarab.com](https://abolfazlarab.com/)
 ___
 
 Manuscripts:
-- [GilbertLabUCSF/DDRi-screens](https://github.com/GilbertLabUCSF/DDRi-screens) | Functional genomics screens of DNA Damage Response inhibitors ... 🚧
+- [GilbertLabUCSF/DDRi-screens](https://github.com/GilbertLabUCSF/DDRi-screens) | **Functional genomics screens of DNA Damage Response inhibitors**
 - [GilbertLabUCSF/Decitabine-treatment](https://github.com/GilbertLabUCSF/Decitabine-treatment) | **Multi-Omics study of DNA hypomethylation**
 - [GilbertLabUCSF/CanDI](https://github.com/GilbertLabUCSF/CanDI) | **Cancer Data Integrator**
 
